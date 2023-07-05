@@ -1,0 +1,1 @@
+![Database ER Diagram for Social Share App](./ERD.png)
