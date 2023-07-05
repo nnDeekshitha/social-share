@@ -1,0 +1,7 @@
+a.custom-link {
+  text-decoration: none !important;
+}
+
+.d-flex .flex-1 {
+  flex: 1;
+}
